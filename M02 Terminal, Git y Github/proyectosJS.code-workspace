@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../proyectosJS"
+		},
+		{
+			"path": "../../../CSS"
+		},
+		{
+			"path": "../../../HTML"
+		},
+		{
+			"path": "../../../enron_mail_20110402"
+		},
+		{
+			"path": "../../../url_mod"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Materias de avanze"
+		}
+	],
+	"settings": {
+		"go.goroot": "",
+		"go.installDependenciesWhenBuilding": false,
+		"liveServer.settings.multiRootWorkspaceName": "PROYECT",
+		"git.ignoreLimitWarning": true
+	}
+}
